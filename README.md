@@ -1,7 +1,7 @@
 # VISUALIZADOR DE TONS MUSICAIS
-  
-  <h1>Propósito</h1>
 <br>
+<br>
+  <h1>Propósito</h1>
   <p>Este é um simples visualizador de tons musicais, que tem como objetivo ser de facil acesso e de visualização sobre temas de teoria musical como: <br>
     <h3>
       <list>
@@ -15,7 +15,8 @@
       </list>
     </h3>
   </p>
-
+<br>
+<br>
   <h1>Funcionalidades</h1>
     <p>
       A locomoção pelo código é feito por opções pré-determinadas para que o usuário escolha qual opção quer acessar segundo o que o próprio quer fazer<br>
