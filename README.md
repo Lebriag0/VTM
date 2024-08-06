@@ -43,4 +43,4 @@
               <li>Opção 4: O sair, é claro</li>
           </h3>
     </p>
-  <h1>VERSÃO 0.0.1</h1>
+  <h1>VERSÃO 0.0.3</h1>
