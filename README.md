@@ -28,7 +28,7 @@
             <li>Opção 3: Acessar o menu da progressão de acordes</li>
           </list>
         </h3>
-            <p></p>
+            <p>=============================================================================</p>
             <p>Opções ddo menu da progressão de acordes: </p>
             <h5>
               <list>
@@ -38,7 +38,7 @@
                 <li>Opção 4: A opção de voltar ao menu anterior, é claro</li>
               </list>
             </h5>
-            <p></p>
+            <p>==============================================================================</p>
           <h3>
               <li>Opção 4: O sair, é claro</li>
           </h3>
