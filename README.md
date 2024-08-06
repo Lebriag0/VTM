@@ -29,7 +29,7 @@
           </list>
         </h3>
             <p>=============================================================================</p>
-            <p>Opções ddo menu da progressão de acordes: </p>
+            <p>Opções do menu da progressão de acordes: </p>
             <h5>
               <list>
                 <li>Opção 1: Modifica a progressão de acorde atual por uma pré determinada</li>
