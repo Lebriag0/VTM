@@ -26,15 +26,8 @@
             <li>Opção 1: Acessar os tons disponiveis e trocar de tom atual</li>
             <li>Opção 2: Trocar uma nota específica do tom atual</li>
             <li>Opção 3: Acessar o menu da progressão de acordes</li>
-            <p>
-              <li>
-                Opções ddo menu da progressão de acordes: 
-                <li>Opção 1: Modifica a progressão de acorde atual por uma pré determinada</li>
-                <li>Opção 2: Adiciona uma nova progressão de acordes personalizada</li>
-                <li>Opção 3: Mostra as progressões existentes, inclusive as que foram criadas pelo usuário</li>
-                <li>Opção 4: A opção de voltar ao menu anterior, é claro</li>
-              </li>
-            </p>
+            <p></p>
+            <h
             <li>Opção 4: O sair, é claro</li>
           </list>  
         </h3>
